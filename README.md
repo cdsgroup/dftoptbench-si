@@ -6,7 +6,7 @@ Bimolecular Complexes
 <p  align="center">
 <br>
 <a href="http://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00797"><img src="https://img.shields.io/badge/DOI-%2010.1021%2Facs.jctc.6b00797-blue.svg"/></a>
-<a href="https://mybinder.org/v2/gh/dsirianni/dftoptbench-si/master"><img src="https://mybinder.org/badge.svg"/></a>
+<a href="https://mybinder.org/v2/gh/cdsgroup/dftoptbench-si/master"><img src="https://mybinder.org/badge.svg"/></a>
 <a href="mailto:sherrill@chemistry.gatech.edu"><img src="https://img.shields.io/badge/email-authors-yellowgreen.svg"/></a>
 <a href="https://opensource.org/licenses/BSD-3-Clause"><img src="https://img.shields.io/badge/License-BSD%203--Clause-red.svg"/></a>
 <br>
@@ -69,7 +69,7 @@ summary statistics for interaction energy scans of HBC6 and NBC7x complexes
 All future work using the code, data, and/or tools contained herein should cite
 the following:
 
-1. [D. A. Sirianni, A. Alenaizan, T. M. Parker, D. L. Cheney, and C. D. Sherrill.
+1. [D. A. Sirianni, A. Alenaizan, D. L. Cheney, and C. D. Sherrill.
 *J. Chem. Theory Comput.* **VV**, pp (yyyy)]()
 
 
