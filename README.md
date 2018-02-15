@@ -48,11 +48,9 @@ For the raw data in CSV format, please refer to the publication's
 [Supplementary Information](). Provided here are:
 
 1. Jupyter notebooks for data analysis and visualization
-    * `basics.ipynb`: Basic overview of Jupyter notebooks and the Pandas
-python library
     * `analysis.ipynb`: Generates all relevant figures and tables from the
 manuscript and supplementary information
-2. `registration.ipynb`: Discusses the point-set registration problem, as well
+2. `align.ipynb`: Discusses the point-set registration problem, as well
 as provides implementations of Algorithms 1 & 2 from the SI
 3. Data Files
     * `pickles/A21_LRMSD-dCOM.pkl`: Contains all LRMSD and dCOM data and 
@@ -62,7 +60,7 @@ scans for HBC6 and NBC7x complexes
     * `pickles/HBC6-NBC7x_pes-minima.pkl`: Contains interpolated minima of and 
 summary statistics for interaction energy scans of HBC6 and NBC7x complexes
     * `example-geoms/`: Contains example XYZ files on which the code in 
-`registration.ipynb` can be tested.
+`align.ipynb` can be tested.
 
 ### Citing this Repository
 
