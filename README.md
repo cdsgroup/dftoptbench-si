@@ -5,7 +5,7 @@ Bimolecular Complexes
 
 <p  align="center">
 <br>
-<img src="media/toc.png" alt="Table of Contents Graphic" height=200> <br>
+<img src="media/toc.png" alt="Table of Contents Graphic" height=300> <br>
 <a href="http://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00797"><img src="https://img.shields.io/badge/DOI-%2010.1021%2Facs.jctc.6b00797-blue.svg"/></a>
 <a href="https://mybinder.org/v2/gh/cdsgroup/dftoptbench-si/master"><img src="https://mybinder.org/badge.svg"/></a>
 <a href="mailto:sherrill@chemistry.gatech.edu"><img src="https://img.shields.io/badge/email-authors-yellowgreen.svg"/></a>
